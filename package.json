@@ -1,0 +1,26 @@
+{
+  "name": "hostbill-node",
+  "version": "0.2.0",
+  "description": "HostBill API client in Node",
+  "keywords": [
+    "hostbill",
+    "api",
+    "nodejs"
+  ],
+  "author": "Kris Pajak (http://hostbillapp.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:krispajak/hostbill-node"
+  },
+  "main": "./lib/hostbill-node.js",
+  "dependencies": { 
+   "request" : "2.9.203"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "homepage": "http://hostbillapp.com"
+}
